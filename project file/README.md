@@ -68,4 +68,4 @@ This project is for educational and non-commercial use only.
 ## Author
 **Shahbaaz**
 - GitHub: [shahbaaz09](https://github.com/shahbaaz09)
-- LinkedIn: [Your LinkedIn Here]
+- LinkedIn: [Mohammad Shahbaaz Shaikh](https://www.linkedin.com/in/mohammad-shahbaaz-shaikh-2725192b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
