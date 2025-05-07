@@ -1,0 +1,13 @@
+
+# Ignore model weights (can be large)
+*.weights
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment or system files
+.DS_Store
+
+# Virtual environment (if used)
+venv/
