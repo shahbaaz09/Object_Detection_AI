@@ -38,11 +38,6 @@ To detect objects from your webcam:
 ```bash
 python detect.py --webcam
 ```
-## Sample Output
-
-This is a sample result of the YOLOv3 object detection running in real-time:
-
-![Object Detection Output](output.jpg)
 
 > Ensure the following files are in the project folder:
 > - `yolov3.cfg`
@@ -50,8 +45,10 @@ This is a sample result of the YOLOv3 object detection running in real-time:
 > - `coco.names`
 
 ## Sample Output
+This is a sample result of the YOLOv3 object detection running in real-time:
 
-You can find example images and output in the `results/` folder.
+![Object Detection Output](output.jpg)
+
 
 ## Project Structure
 
