@@ -58,10 +58,10 @@ object-detection-ai/
 ├── yolov3.cfg
 ├── yolov3.weights
 ├── coco.names
-├── test_images/
-├── results/
+├── sample.jpg
+├── output.jpg
 ├── requirements.txt
-└── README.md
+└── gitignore.unknown
 ```
 
 ## License
