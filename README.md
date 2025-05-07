@@ -41,7 +41,7 @@ python detect.py --webcam
 
 > Ensure the following files are in the project folder:
 > - `yolov3.cfg`
-> - `yolov3.weights`
+> - `yolov3.weights`(This file might be missing the folder I uploaded, due to the size restriction. Try contacting me if needed.)
 > - `coco.names`
 
 ## Sample Output
