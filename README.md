@@ -65,7 +65,9 @@ object-detection-ai/
 ```
 
 ## License
-This project is for educational and non-commercial use only.
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and share with proper attribution.
 
 ## Author
 **Shahbaaz**
